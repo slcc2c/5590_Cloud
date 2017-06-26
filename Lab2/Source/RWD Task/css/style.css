@@ -1,0 +1,68 @@
+/* Write your normal css which does not use css from bootstrap here*/
+
+h1, h3, p {
+    color: #747704;
+}
+p, h3{
+    text-align: center;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    color: #BCBBBB;
+    opacity: 0.6;
+}
+.apps {
+    width:50%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.outer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+#bean_img{
+    align-self: flex-start;
+    width: 100px;
+}
+#bean{
+    width:50%;
+    display: flex;
+    align-content: flex-start;
+
+}
+#big_img{
+    width: 100%;
+}
+#name {
+    width:50%;
+    align-self: flex-end;
+    align-content: flex-start;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#top{
+   top: 0px;
+   margin:0px;
+   margin-bottom: 30px;  
+   padding: 0px 0px 0px 0px;    
+   border-width: 1px;
+   border-bottom-width:2px;
+   border-bottom-color: black;
+   border-bottom-style: solid;
+   width: auto;
+   display: flex;
+   flex-wrap: nowrap;
+   
+}
+

@@ -1,0 +1,12 @@
+/* Write your normal css which does not use css from bootstrap here*/
+
+.section {
+    min-height: 1000px;
+    overflow:hidden;
+    position: relative;
+    padding-top:80px;
+}
+
+.section:nth-child(even){
+    background-color: #ccc;
+}

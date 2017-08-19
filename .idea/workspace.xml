@@ -2,7 +2,592 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8be02fd1-b44b-42f1-936a-0c3322339996" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/Screens/Screen Shot 2017-08-18 at 8.49.03 PM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/Screens/Screen Shot 2017-08-18 at 8.49.15 PM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/Screens/Screen Shot 2017-08-18 at 8.49.45 PM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/Screens/Screen Shot 2017-08-18 at 8.49.53 PM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/.idea/UseCase.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/.idea/MEAN_Stack_App.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/addStudent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/js/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/mongo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/.bin/mime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/.bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/accepts/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/accepts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/array-flatten/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/array-flatten/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/array-flatten/array-flatten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/array-flatten/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/assert/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/assert/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/assert/.zuul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/assert/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/assert/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/assert/assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/assert/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/assert/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/lib/read.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/lib/types/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/lib/types/raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/lib/types/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/lib/types/urlencoded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/body-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/browser_build/bson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/browser_build/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/binary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/bson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/db_ref.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/decimal128.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/double.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/float_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/int_32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/max_key.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/min_key.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/objectid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/parser/calculate_size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/parser/deserializer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/parser/serializer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/regexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/lib/bson/timestamp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bson/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/buffer-shims/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/buffer-shims/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/buffer-shims/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/buffer-shims/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bytes/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bytes/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bytes/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bytes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/bytes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-disposition/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-disposition/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-disposition/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-disposition/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-disposition/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-type/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-type/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-type/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-type/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/content-type/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/core-util-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/core-util-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/core-util-is/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/core-util-is/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/core-util-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/core-util-is/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/basic-auth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/body-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/cors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/error-response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/example-app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/issue-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/issue-31.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/cors/test/support/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/lib/browser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/lib/compat/buffer-concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/lib/compat/callsite-tostring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/lib/compat/event-listener-count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/lib/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/destroy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/destroy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/destroy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/destroy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/encodeurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/encodeurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/encodeurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/encodeurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/encodeurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/dist/es6-promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/dist/es6-promise.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise.umd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/-internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/asap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/enumerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/promise/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/promise/race.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/promise/reject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/promise/resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/then.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/lib/es6-promise/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/es6-promise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/escape-html/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/escape-html/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/etag/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/etag/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/etag/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/etag/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/etag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/middleware/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/router/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/finalhandler/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/finalhandler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/finalhandler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/finalhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/finalhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/forwarded/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/forwarded/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/forwarded/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/forwarded/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/forwarded/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/fresh/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/fresh/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/fresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/http-errors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/http-errors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/http-errors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/http-errors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/http-errors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/dbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/dbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/sbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/sbcs-data-generated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/sbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/tables/big5-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/tables/cp936.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/tables/cp949.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/tables/cp950.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/tables/eucjp.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/tables/gbk-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/tables/shiftjis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/utf16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/encodings/utf7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/lib/bom-handling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/lib/extend-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/lib/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/lib/streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/iconv-lite/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/Cakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/ipaddr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/lib/ipaddr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/src/ipaddr.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/isarray/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/isarray/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/isarray/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/isarray/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/media-typer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/media-typer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/merge-descriptors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/merge-descriptors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/merge-descriptors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/merge-descriptors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/merge-descriptors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/methods/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/methods/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/build/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mime/types.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/TESTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/THIRD-PARTY-NOTICES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/conf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/auth/gssapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/auth/mongocr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/auth/plain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/auth/scram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/auth/sspi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/auth/x509.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/connection/command_result.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/connection/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/connection/connection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/connection/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/connection/pool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/connection/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/cursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/tools/smoke_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/topologies/mongos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/topologies/read_preference.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/topologies/replset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/topologies/replset_state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/topologies/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/topologies/shared.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/wireprotocol/2_4_support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/wireprotocol/2_6_support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/wireprotocol/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/lib/wireprotocol/shared.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb-core/test1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/THIRD-PARTY-NOTICES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/boot_auth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/conf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/insert_bench.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/aggregation_cursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/apm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/authenticate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/bulk/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/bulk/ordered.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/bulk/unordered.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/command_cursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/cursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/db.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/gridfs-stream/download.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/gridfs-stream/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/gridfs-stream/upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/gridfs/chunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/gridfs/grid_store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/mongo_client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/mongos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/read_preference.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/replset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/topology_base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/url_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/mongodb/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ms/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/ms/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/object-assign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/object-assign/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/object-assign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/object-assign/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/on-finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/on-finished/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/on-finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/on-finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/on-finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/parseurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/parseurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/parseurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/path-to-regexp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/path-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/process-nextick-args/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/process-nextick-args/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/process-nextick-args/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/process-nextick-args/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/process-nextick-args/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/process-nextick-args/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/proxy-addr/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/proxy-addr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/proxy-addr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/proxy-addr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/proxy-addr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/dist/qs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/lib/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/test/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/qs/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/range-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/range-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/range-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/range-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/raw-body/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/raw-body/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/raw-body/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/raw-body/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/raw-body/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/GOVERNANCE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/duplex-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/lib/internal/streams/BufferList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/readable-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/writable-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/readable-stream/writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/test/nestedTest/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/test/nestedTest/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/require_optional/test/require_optional_tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/resolve-from/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/resolve-from/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/resolve-from/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/resolve-from/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/safe-buffer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/safe-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/safe-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/safe-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/safe-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/safe-buffer/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/semver/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/semver/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/semver/bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/semver/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/semver/range.bnf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/semver/semver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/send/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/send/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/send/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/serve-static/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/serve-static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/serve-static/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/serve-static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/serve-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/setprototypeof/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/setprototypeof/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/setprototypeof/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/setprototypeof/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/statuses/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/statuses/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/statuses/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/statuses/codes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/statuses/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/statuses/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/string_decoder/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/string_decoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/string_decoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/string_decoder/lib/string_decoder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/string_decoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/type-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/type-is/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/unpipe/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/unpipe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/unpipe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/unpipe/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/unpipe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util-deprecate/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util-deprecate/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util-deprecate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util-deprecate/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util-deprecate/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util-deprecate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/.zuul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/support/isBuffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/support/isBufferBrowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/test/browser/inspect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/test/browser/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/test/node/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/test/node/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/test/node/inspect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/test/node/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/test/node/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/util/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/utils-merge/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/utils-merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/utils-merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/utils-merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/utils-merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/vary/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/vary/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules/vary/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICE_8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ICE_8/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,11 +652,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ICE 5/ICE-Restaurants for U /app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
+            <state relative-caret-position="169">
               <caret line="17" column="87" lean-forward="false" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LAB_6/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,8 +702,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ICE_8/node_modules" />
+    <handled-path value="$PROJECT_DIR$/LAB_6/MEAN_Stack_App/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="505" />
+    <option name="x" value="572" />
     <option name="y" value="22" />
     <option name="width" value="1300" />
     <option name="height" value="1178" />
@@ -128,6 +727,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -137,6 +737,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="5590_Cloud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5590_Cloud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5590_Cloud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LAB_6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5590_Cloud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5590_Cloud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LAB_6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -175,7 +807,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,7 +816,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LAB_6/Screens" />
       <recent name="$PROJECT_DIR$/Lab 3/Source" />
     </key>
   </component>
@@ -298,6 +933,7 @@
       <workItem from="1498782556984" duration="9876000" />
       <workItem from="1499728311833" duration="2125000" />
       <workItem from="1500010693189" duration="15000" />
+      <workItem from="1503107450409" duration="124000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Lab 3">
       <created>1498793395260</created>
@@ -324,20 +960,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12016000" />
+    <option name="totallyTimeSpent" value="12140000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="505" y="22" width="1300" height="1178" extended-state="0" />
+    <frame x="572" y="22" width="1300" height="1178" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18846154" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39945897" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -372,6 +1008,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lab 3/Source/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 3/Source/git.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="69" lean-forward="false" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 3/Source/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICE 5/ICE-Restaurants for U /index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICE 5/ICE-Restaurants for U /app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICE 5/ICE-Restaurants for U /app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="87" lean-forward="false" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lab 3/Source/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -500,8 +1184,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ICE 5/ICE-Restaurants for U /app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="169">
           <caret line="17" column="87" lean-forward="false" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB_6/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

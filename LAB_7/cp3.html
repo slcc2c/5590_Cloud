@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>D3: An NBA Chart w/ tooltips</title>
+		<script type="text/javascript" src="../d3/d3.v3.js"></script>
+		<script type="text/javascript" src="assists.js"> </script>
+		<style type="text/css">
+
+			rect:hover {
+				fill: maroon;
+			}
+			
+			#tooltip {
+				position: absolute;
+				width: auto;
+				height: auto;
+				padding: 10px;
+				background-color: white;
+				-webkit-border-radius: 10px;
+				-moz-border-radius: 10px;
+				border-radius: 10px;
+				-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+				pointer-events: none;
+			}
+			
+			#tooltip.hidden {
+				display: none;
+			}
+			
+			#tooltip p {
+				margin: 0;
+				font-family: sans-serif;
+				font-size: 10px;
+				line-height: 20px;
+			}
+            #playoffs{
+                font-size: 10px;
+                color: red;
+            }
+
+		</style>
+	</head>
+	<body>
+        <p>CP3 2016</p>
+		<div id="tooltip" class="hidden">
+			<p><strong>Game Stats</strong></p>
+            <p>Game# <span id="game"></span> Min: <span id="min"></span></p>
+            <p> Pts: <span id="pts"></span></p>
+            <p> Reb: <span id="reb"></span></p>
+            <p> Ast: <span id="ast"></span></p>
+            <p  id="playoffs" class="hidden"><strong>PLAYOFF GAME #<span id="pgamenum"></span></strong></p>
+		</div>
+		
+	</body>
+</html>

@@ -191,7 +191,7 @@ function nextUid() {
  * to `dst`. You can specify multiple `src` objects.
  *
  * @param {Object} dst Destination object.
- * @param {...Object} src Source object(s).
+ * @param {...Object} src Screenshots object(s).
  */
 function extend(dst) {
   forEach(arguments, function(obj){
@@ -9259,7 +9259,7 @@ var uppercaseFilter = valueFn(uppercase);
  * Note: This function is used to augment the `Array` type in Angular expressions. See
  * {@link angular.module.ng.$filter} for more information about Angular arrays.
  *
- * @param {Array} array Source array to be limited.
+ * @param {Array} array Screenshots array to be limited.
  * @param {string|Number} limit The length of the returned array. If the `limit` number is
  *     positive, `limit` number of items from the beginning of the source array are copied.
  *     If the number is negative, `limit` number  of items from the end of the source array are

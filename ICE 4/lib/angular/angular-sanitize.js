@@ -60,7 +60,7 @@
            <table>
              <tr>
                <td>Filter</td>
-               <td>Source</td>
+               <td>Screenshots</td>
                <td>Rendered</td>
              </tr>
              <tr id="html-filter">
@@ -455,7 +455,7 @@ angular.module('ngSanitize').directive('ngBindHtml', ['$sanitize', function($san
        <table>
          <tr>
            <td>Filter</td>
-           <td>Source</td>
+           <td>Screenshots</td>
            <td>Rendered</td>
          </tr>
          <tr id="linky-filter">

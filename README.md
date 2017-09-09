@@ -5,4 +5,5 @@
 [ICE 4](https://github.com/slcc2c/5590_Cloud/wiki/ICE-4)
 [ICE 5](https://github.com/slcc2c/5590_Cloud/wiki/ICE-5)
 [Lab 5](https://github.com/slcc2c/5590_Cloud/wiki/Lab-5)
+[Lab 6](https://github.com/slcc2c/5590_Cloud/wiki/Lab-6)
 [ICE 8](https://github.com/slcc2c/5590_Cloud/wiki/ICE-8)
